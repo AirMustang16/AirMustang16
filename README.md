@@ -5,7 +5,7 @@
 My curiosity about how video games work led me to software engineering
 
 - 🌍 I'm based in Lahore, PK
-- 🖥️ See my portfolio at here portfolio-five-neon-85.vercel.app
+- 🖥️ See my portfolio at [here](https://portfolio-m-omar.vercel.app/)
 - ✉️ You can contact me at muhammadomarhashmi@gmail.com
 - 🧠 I'm always focused on learning
 - 🤝 I'm open to collaborating on Open Source Projects
